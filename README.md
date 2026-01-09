@@ -1,8 +1,8 @@
-# Aplicativo Web com Dashboard de Vendas
+# Aplicativo Web com Relatório de Vendas
 
 ## Descrição do Projeto
 
-Aplicativo eeb com dashboard de vendas realizado em curso de Streamlit da Alura.
+Este é um aplicativo web com relatório de vendas realizado em curso de Streamlit da Alura.
 
 ## Tecnologias Utilizadas
 
